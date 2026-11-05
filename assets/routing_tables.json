@@ -1,0 +1,463 @@
+{
+ "_meta": {
+  "generated_from": "assets/sn_infographic/layout-style-selection.md",
+  "note": "票据构造：primary×10 + alts×9，无行外随机票（本地裁定，2026-11-04 用户拍板去掉 sn 原版 ~6% 行外票）"
+ },
+ "layouts": [
+  {
+   "key": "timeline / history",
+   "primary": "linear-progression",
+   "alts": [
+    "winding-roadmap",
+    "step-staircase",
+    "one-way-flow",
+    "flashback"
+   ]
+  },
+  {
+   "key": "process / tutorial",
+   "primary": "linear-progression",
+   "alts": [
+    "winding-roadmap",
+    "step-staircase",
+    "swimlane",
+    "modular-repetition",
+    "funnel",
+    "one-way-flow"
+   ]
+  },
+  {
+   "key": "comparison",
+   "primary": "binary-comparison",
+   "alts": [
+    "four-quadrant-grid",
+    "conflict-contrast"
+   ]
+  },
+  {
+   "key": "hierarchy",
+   "primary": "hierarchical-layers",
+   "alts": [
+    "axial-expansion",
+    "deconstruction"
+   ]
+  },
+  {
+   "key": "relationships",
+   "primary": "hub-spoke",
+   "alts": [
+    "jigsaw",
+    "multi-focal",
+    "venn-diagram"
+   ]
+  },
+  {
+   "key": "data / metrics",
+   "primary": "dashboard",
+   "alts": [
+    "periodic-table",
+    "data-landscape",
+    "hard-alignment",
+    "swiss-grid"
+   ]
+  },
+  {
+   "key": "cycle / loop",
+   "primary": "circular-flow",
+   "alts": [
+    "s-curve",
+    "wave-path",
+    "spiral-vortex"
+   ]
+  },
+  {
+   "key": "system / structure",
+   "primary": "structural-breakdown",
+   "alts": [
+    "multi-scale",
+    "containerization",
+    "deconstruction"
+   ]
+  },
+  {
+   "key": "journey / narrative",
+   "primary": "winding-roadmap",
+   "alts": [
+    "story-mountain",
+    "comic-strip",
+    "emotional-gradient",
+    "storyboard",
+    "flashback",
+    "full-illustration",
+    "one-way-flow",
+    "left-image-right-text",
+    "diagonal-composition",
+    "overlapping"
+   ]
+  },
+  {
+   "key": "overview / summary",
+   "primary": "bento-grid",
+   "alts": [
+    "periodic-table",
+    "containerization",
+    "top-image-bottom-text",
+    "panorama",
+    "golden-ratio-split"
+   ]
+  },
+  {
+   "key": "problem / solution",
+   "primary": "iceberg",
+   "alts": [
+    "conflict-contrast",
+    "visual-tension",
+    "funnel",
+    "bridge"
+   ]
+  },
+  {
+   "key": "categories / collection",
+   "primary": "periodic-table",
+   "alts": [
+    "bento-grid",
+    "tile-layout",
+    "gallery-style",
+    "skewed-grid"
+   ]
+  },
+  {
+   "key": "spatial / geographic",
+   "primary": "multi-scale",
+   "alts": [
+    "strong-perspective",
+    "panorama",
+    "isometric-map"
+   ]
+  },
+  {
+   "key": "cross-functional / workflow",
+   "primary": "swimlane",
+   "alts": [
+    "linear-progression",
+    "modular-repetition"
+   ]
+  },
+  {
+   "key": "feature list / catalog",
+   "primary": "modular-repetition",
+   "alts": [
+    "bento-grid",
+    "containerization",
+    "left-text-right-image"
+   ]
+  },
+  {
+   "key": "single concept spotlight",
+   "primary": "single-focal-point",
+   "alts": [
+    "big-typography",
+    "ultra-minimalist",
+    "header-body",
+    "center-focus",
+    "frame-composition",
+    "full-bleed-image",
+    "visual-first",
+    "single-object-art",
+    "macro-closeup",
+    "golden-ratio-split",
+    "deconstruction",
+    "heading-subheading",
+    "top-image-bottom-text",
+    "generous-margins",
+    "asymmetry",
+    "edge-tension",
+    "breaking-the-grid",
+    "strong-perspective"
+   ]
+  },
+  {
+   "key": "dialogue / Q&A",
+   "primary": "speech-bubbles",
+   "alts": [
+    "character-guide",
+    "comic-strip"
+   ]
+  },
+  {
+   "key": "discovery / exploration",
+   "primary": "nonlinear-path",
+   "alts": [
+    "scene-unfolding",
+    "random-scatter",
+    "disrupted-flow",
+    "collage-glitch",
+    "hidden-details"
+   ]
+  },
+  {
+   "key": "network / multi-center",
+   "primary": "multi-focal",
+   "alts": [
+    "hub-spoke",
+    "multi-directional"
+   ]
+  },
+  {
+   "key": "report / long-form",
+   "primary": "header-body",
+   "alts": [
+    "swiss-grid",
+    "hard-alignment",
+    "heading-subheading",
+    "editorial-vogue",
+    "chapter-layout"
+   ]
+  },
+  {
+   "key": "marketing / CTA",
+   "primary": "z-pattern",
+   "alts": [
+    "tile-layout",
+    "luxury-layout",
+    "editorial-vogue",
+    "generous-margins",
+    "full-bleed-image",
+    "visual-first",
+    "center-focus",
+    "frame-composition",
+    "overlapping",
+    "asymmetry",
+    "edge-tension",
+    "breaking-the-grid",
+    "skewed-grid",
+    "diagonal-composition",
+    "visual-tension",
+    "collage-glitch"
+   ]
+  }
+ ],
+ "styles": [
+  {
+   "key": "Technical / Engineering",
+   "primary": "technical-schematic",
+   "alts": [
+    "ikea-manual",
+    "ui-wireframe",
+    "technical-diagram",
+    "parametric-design",
+    "subway-map"
+   ]
+  },
+  {
+   "key": "Software / Product / Tech brand",
+   "primary": "tech-brand",
+   "alts": [
+    "material-design",
+    "corporate-memphis",
+    "ui-wireframe",
+    "parametric-design"
+   ]
+  },
+  {
+   "key": "Sci-fi / Futuristic",
+   "primary": "neon-futurism",
+   "alts": [
+    "cyberpunk",
+    "sci-fi-ui",
+    "synthwave",
+    "holographic",
+    "liquid-metal",
+    "vaporwave"
+   ]
+  },
+  {
+   "key": "Professional / Business",
+   "primary": "corporate-memphis",
+   "alts": [
+    "swiss-style",
+    "minimalism",
+    "flat-design",
+    "bauhaus",
+    "high-contrast-ad"
+   ]
+  },
+  {
+   "key": "Data / Analytics",
+   "primary": "data-visualization",
+   "alts": [
+    "technical-diagram",
+    "swiss-style",
+    "minimalism",
+    "subway-map",
+    "parametric-design"
+   ]
+  },
+  {
+   "key": "Educational / Instructional",
+   "primary": "chalkboard",
+   "alts": [
+    "instructional-visual",
+    "ikea-manual",
+    "paper-collage",
+    "bauhaus"
+   ]
+  },
+  {
+   "key": "Playful / Casual / Kids",
+   "primary": "paper-collage",
+   "alts": [
+    "crayon-hand-drawn",
+    "cartoon-flat",
+    "kawaii",
+    "lego-brick",
+    "screen-print"
+   ]
+  },
+  {
+   "key": "Luxury / Premium / Fashion",
+   "primary": "luxury-minimal",
+   "alts": [
+    "art-deco",
+    "fashion-editorial",
+    "art-nouveau",
+    "liquid-metal"
+   ]
+  },
+  {
+   "key": "Chinese domain",
+   "primary": "chinese-guochao",
+   "alts": [
+    "modern-ink-wash"
+   ]
+  },
+  {
+   "key": "Japanese domain",
+   "primary": "ukiyo-e",
+   "alts": [
+    "kawaii"
+   ]
+  },
+  {
+   "key": "Vintage / Retro",
+   "primary": "aged-academia",
+   "alts": [
+    "vintage-poster",
+    "newspaper-collage",
+    "woodcut",
+    "art-nouveau",
+    "screen-print",
+    "vaporwave"
+   ]
+  },
+  {
+   "key": "Artistic / Fine art",
+   "primary": "impressionism",
+   "alts": [
+    "expressionism",
+    "cubism",
+    "baroque",
+    "surrealism",
+    "art-nouveau"
+   ]
+  },
+  {
+   "key": "Handmade / Craft",
+   "primary": "paper-collage",
+   "alts": [
+    "crayon-hand-drawn",
+    "storybook-watercolor",
+    "claymation",
+    "origami",
+    "screen-print"
+   ]
+  },
+  {
+   "key": "Illustration / Drawing",
+   "primary": "pen-sketch",
+   "alts": [
+    "line-drawing",
+    "marker-style",
+    "thick-paint",
+    "monochrome-illustration"
+   ]
+  },
+  {
+   "key": "Experimental / Avant-garde",
+   "primary": "deconstructivism",
+   "alts": [
+    "glitch-art",
+    "op-art",
+    "geometric-burst",
+    "fractal-art",
+    "surreal-collage",
+    "parametric-design",
+    "vaporwave"
+   ]
+  },
+  {
+   "key": "Scandinavian / Minimal",
+   "primary": "scandinavian",
+   "alts": [
+    "minimalism",
+    "swiss-style",
+    "luxury-minimal",
+    "bauhaus"
+   ]
+  },
+  {
+   "key": "Playful / Geometric",
+   "primary": "origami",
+   "alts": [
+    "pixel-art",
+    "knolling",
+    "lego-brick",
+    "bauhaus"
+   ]
+  },
+  {
+   "key": "Photography / Mixed",
+   "primary": "mixed-media",
+   "alts": [
+    "film-photography",
+    "double-exposure",
+    "newspaper-collage"
+   ]
+  },
+  {
+   "key": "Marketing / Advertising",
+   "primary": "high-contrast-ad",
+   "alts": [
+    "screen-print",
+    "flat-design",
+    "corporate-memphis"
+   ]
+  },
+  {
+   "key": "Futuristic / Luxury Tech",
+   "primary": "liquid-metal",
+   "alts": [
+    "neon-futurism",
+    "holographic",
+    "parametric-design"
+   ]
+  },
+  {
+   "key": "Internet / Youth Culture",
+   "primary": "vaporwave",
+   "alts": [
+    "glitch-art",
+    "cyberpunk",
+    "pixel-art"
+   ]
+  }
+ ],
+ "fallback": {
+  "layout": "hub-spoke",
+  "style": "corporate-memphis"
+ },
+ "ticket_weights": {
+  "primary": 10,
+  "alt": 9
+ }
+}
